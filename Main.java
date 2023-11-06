@@ -1,13 +1,13 @@
-import PanelManagers.*;
+import UIExtensions.Frame;
 
 public class Main
 {
     public static void main(String [] args)
     {
-        PanelController.initializeFrame();
+        Frame window = new Frame();
+        Style.window = window;
 
-        PanelCreator.CreateMainPanel();
-
-        PanelController.openPanel("Main");
+        Style.CreateMainPanel();
+        window.openPanel("Main");
     }
 }

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Frame
+comment1.params=
+comment1.target=Frame()
+comment2.params=name
+comment2.target=Panel\ addNewPanel(java.lang.String)
+comment3.params=name
+comment3.target=void\ openPanel(java.lang.String)
+numComments=4
