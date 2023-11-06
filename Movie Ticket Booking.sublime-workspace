@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Onpres",
+				"onPressForeground"
+			],
+			[
+				"fore",
+				"foreground"
+			],
+			[
+				"press",
+				"onPressForeground"
+			],
+			[
+				"for",
+				"foreground"
+			],
+			[
+				"set",
+				"setBackground"
+			],
+			[
+				"grad",
+				"gradientOrientation"
+			],
+			[
+				"Gradient",
+				"gradientOrientation"
+			],
+			[
+				"panel",
+				"PanelManager"
+			],
+			[
+				"so",
+				"sortedLastIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"close te",
+				"Terminus: Close All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/JAVA/BlueJ/Movie Ticket Booking"
+	],
+	"file_history":
+	[
+		"/E/JAVA/BlueJ/Movie Ticket Booking/Main.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/PanelManagers/PanelController.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/PanelManagers/PanelCreator.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/UIExtensions/Panel.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/UIExtensions/Button.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/UIExtensions/PanelCreator.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/UIExtensions/PanelController.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/UI Extensions/Button.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/PanelCreator.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/Panel.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/Button.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/PanelManager.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/CreatePanels.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/ScreenManager.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/Screen.java",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/Graphics/Screen.java",
+		"/D/anirb/Downloads/Code.txt",
+		"/E/JAVA/BlueJ/Movie Ticket Booking/Main.ctxt",
+		"/E/GameDev/Unity/Projects/_Repos/Proxy/Assets/_Throwaway Scripts/RotateSkybox.cs",
+		"/D/anirb/OneDrive/Desktop/win.bat",
+		"/D/anirb/Downloads/noname",
+		"/D/anirb/OneDrive/Desktop/matrix.bat",
+		"/D/anirb/OneDrive/Documents/Rainmeter/Skins/SquarePlayer/ProgressBar.ini",
+		"/D/anirb/OneDrive/Documents/Rainmeter/Skins/Elevation/@Resources/measures.inc",
+		"/D/anirb/OneDrive/Documents/Rainmeter/Skins/ModularPlayers/Main/Styles/Side.inc",
+		"/D/anirb/OneDrive/Documents/Rainmeter/Skins/ModularPlayers/Main/Vars/Side.inc",
+		"/D/anirb/OneDrive/Documents/Rainmeter/Skins/FrostedGlass/FrostedGlass.ini",
+		"/D/anirb/OneDrive/Documents/Rainmeter/Skins/blur.ini",
+		"/D/anirb/Downloads/VanillaTweaks_r728909/pack.mcmeta",
+		"/D/Gaming/MineCraft/AX-RPs/pack.mcmeta",
+		"/D/Gaming/MineCraft/AX-RPs/assets/minecraft/blockstates/acacia_sapling.json",
+		"/E/BinarySearch.java",
+		"/D/anirb/lmao.py",
+		"/D/anirb/idek.bat",
+		"/D/anirb/wohooPHONE.bat",
+		"/D/anirb/wohoo.bat",
+		"/C/Users/anirb/AppData/Local/Microsoft/Windows/INetCache/IE/J8NYRVFP/wohoo[1].bat",
+		"/C/Users/anirb/AppData/Local/Microsoft/Windows/INetCache/IE/1AQX3CGP/wohoo[1].bat",
+		"/G/_OTHERS/RawAccel/ReadMe.md",
+		"/D/Look and Feel/BrowserTheme/OneDark/manifest.json",
+		"/C/Users/anirb/AppData/Local/Microsoft/Edge/User Data/Default/Extensions/hpkjepofpoigjlihphohlecofocheiaf/2.0_0/manifest.json",
+		"/C/Users/anirb/AppData/Local/nvim/.gitignore",
+		"/C/Users/anirb/AppData/Local/nvim-data/site/pack/packer/start/onedark.nvim/lua/onedark/palette.lua",
+		"/C/Users/anirb/AppData/Local/nvim-data/site/pack/packer/start/onedark.nvim/colors/onedark.lua",
+		"/G/_OTHERS/cmd-config/vim.bat",
+		"/G/_OTHERS/cmd-config/ls.bat",
+		"/H/bookmarks_04_06_2023.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"disinfectants",
+			"antisept",
+			"$nbsp",
+			":\n",
+			"282c34"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 203.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Movie Ticket Booking.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
